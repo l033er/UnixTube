@@ -11,7 +11,6 @@
     <a href="https://github.com/l033er/UnixTube/stargazers"><img src="https://img.shields.io/github/stars/l033er/UnixTube?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/l033er/UnixTube/issues"><img src="https://img.shields.io/github/issues/l033er/UnixTube?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/l033er/UnixTube/contributors"><img src="https://img.shields.io/github/contributors/l033er/UnixTube?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-    <a href="https://github.com/l033er/UnixTube/forks"><img src="https://img.shields.io/github/forks/l033erUnixTube?colorA=363a4f&colorB=f4dbd6&style=for-the-badge"></a>
 </p>
 
 &nbsp;
